@@ -17,7 +17,7 @@ env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   CONFIG_FILE: configs/h68k-armv8.config
-  DIY_SCRIPT: diy-mini.sh
+  DIY_SCRIPT: diy-script.sh
   CLASH_KERNEL: armv8
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
